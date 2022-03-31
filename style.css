@@ -1,0 +1,25 @@
+#unity-webgl-logo,
+#unity-build-title {
+  display: none;
+}
+
+body {
+  background: #f7f9ff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("./TemplateData/app_background.png");
+}
+
+#unity-container {
+  background: #ffffff;
+  box-shadow: 0px 7px 34px #bed4ff;
+  border-radius: 40px;
+  width: 80%;
+
+  padding: 20px;
+}
+
+#unity-canvas {
+  background-color: transparent;
+  border-radius: 20px;
+}
